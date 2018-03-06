@@ -1,3 +1,6 @@
+# ref. https://segmentfault.com/a/1190000005818249
+
+
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
