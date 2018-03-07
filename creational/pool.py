@@ -2,6 +2,8 @@
 # -*- coding: utf-8 -*-
 
 """
+創建對象是要付出代價的，將用完就放回到池裡再被重用，這樣可以節省花費
+
 *What is this pattern about?
 This pattern is used when creating an object is costly (and they are
 created frequently) but only a few are used at a time. With a Pool we
